@@ -1,0 +1,249 @@
+.bottom{
+    height: 2cm;
+    font-size: 0.4cm;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(224, 33, 33);
+    color: white;
+}
+.container-fluid{
+   
+}
+.abc{
+    padding-top: 28px;
+}
+
+
+.caption {
+
+	height: auto;
+
+}
+
+
+/*.glyphicon-star{
+    color: black;
+    text-decoration: none;
+
+}
+
+.glyphicon-star:hover{
+    color: red;
+    text-decoration: none;
+
+}*/
+
+
+.carousel-inner > .item > img {
+	height: 350px !IMPORTANT;
+}
+
+.navbar-brand
+{
+	background-color: rgb(224, 33, 33);
+	color: white !IMPORTANT;
+    opacity: 1 !IMPORTANT;
+}
+.navbar-brand:hover
+{
+
+	background-color: white !IMPORTANT;
+	color: rgb(224, 33, 33) !IMPORTANT;
+}
+
+.navbar-nav>li>a
+{
+	color: white !IMPORTANT;
+}
+
+.navbar-nav>li>a:hover
+{
+	color: rgb(224, 33, 33) !IMPORTANT;
+}
+
+.btn-danger{
+	background-color: rgb(224, 33, 33);
+}
+
+.btn-danger:hover{
+	background-color: rgb(228, 142, 142);
+}
+.colo
+{
+    width: 100%;
+    box-shadow: 0 0 35px red !IMPORTANT;
+}
+
+
+.thumbnail a>img{
+    height: 250px !IMPORTANT;
+    width: 260px !IMPORTANT;
+}
+
+
+/*** SIGNUP ***/
+* {
+    box-sizing: border-box;
+  }
+
+.nav>li>a{
+    color: #555;
+}
+
+.nav>li>a:hover{
+    color: rgb(224, 33, 33) !IMPORTANT;
+}
+
+.nav>li>a:focus{
+    color: rgb(224, 33, 33) !IMPORTANT;
+}
+
+/*** LOGIN ****/
+body{
+	/*background-color: rgb(228, 142, 142);*/
+    position: relative;
+	background-size: cover !IMPORTANT;
+    color: black !IMPORTANT;
+
+}
+
+.card-container.card {
+    max-width: 900px;
+    height: auto;
+    padding: 40px 40px;
+    background-color: rgb(224, 33, 33);
+    box-shadow: 6px 6px 13px #453b46;
+
+/*
+    background-image: url("../images/log6.jpg");
+      background-repeat: no-repeat;
+      background-size: cover;*/
+}
+.btn {
+    font-weight: 700;
+    height: 36px;
+    user-select: none;
+    cursor: default;
+}
+.rem
+{
+    font-size: 0.4cm;
+    color:white;
+}
+/*
+ * Card k manjans
+ */
+.card {
+    /* background-color: #F7F7F7; */
+    padding: 20px 25px 30px;
+    margin: 0 auto 25px;
+    margin-top: 50px;
+    border-radius: 2px;
+}
+
+.profile-img-card {
+    width: 96px;
+    height: 96px;
+    margin: 0 auto 10px;
+    display: block;
+    border-radius: 50%;
+
+}
+.radio-inline
+{
+    padding-left: 20px !important;
+}
+.card-container.card
+{
+    color: white;
+    font-size: 0.4cm;
+}
+/*
+ * Form k manjans
+ */
+.profile-name-card {
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    margin: 10px 0 0;
+    min-height: 1em;
+}
+
+.reauth-email {
+    display: block;
+    color: #404040;
+    line-height: 2;
+    margin-bottom: 10px;
+    font-size: 14px;
+    text-align: center;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    box-sizing: border-box;
+}
+
+.form-signin #inputEmail,
+.form-signin #inputPassword {
+    direction: ltr;
+    height: 44px;
+    font-size: 16px;
+}
+
+.form-signin input[type=email],
+.form-signin input[type=password],
+.form-signin input[type=text],
+.form-signin input[type=number],
+.sel_opt,
+.form-signin input[type=file],
+.form-signin button {
+    width: 100%;
+    height: 30px;
+    display: block;
+    margin-bottom: 10px;
+    z-index: 1;
+    position: relative;
+    box-sizing: border-box;
+    color: #555;
+}
+.form-signin textarea{
+    color: black;
+    width: 100%;
+    height: 80px;
+}
+
+.form-signin input[type=file]{
+    color: white;
+}
+
+.form-signin .form-control:focus {
+    border-color: rgb(104, 145, 162);
+    outline: 0;
+}
+
+.btn.btn-signin {
+    padding: 0px;
+    font-weight: 700;
+    font-size: 14px;
+    height: 36px;
+    border-radius: 3px;
+    border: none;
+    transition: all 0.218s;
+}
+
+
+.forgot-password {
+    color:white;
+    font-size: 0.4cm;
+}
+
+.forgot-password:hover
+{
+    color:rgb(77, 230, 115);
+}
+.forgot-password:active,
+.forgot-password:focus{
+    color: rgb(12, 97, 33);
+}
+
+#copyright
+{
+}
